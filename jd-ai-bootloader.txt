@@ -1,0 +1,58 @@
+# ⚡ JD PRODUCTION — LIVE AI BOOTLOADER CONTEXT
+> SSOT: https://docs.google.com/spreadsheets/d/1rQktBd4Ro4Nl0XdOf4v63x58VLgOokrLixrtDHwa9So/edit
+> Plain-Text Anti-Robots.txt Mirror for ChatGPT Web, Claude Web, Gemini Web
+
+| 🔗 ENDPOINT SAKTI 1-LINK WEB AI | Direct CSV (Google GViz): | https://docs.google.com/spreadsheets/d/1rQktBd4Ro4Nl0XdOf4v63x58VLgOokrLixrtDHwa9So/gviz/tq?tqx=out:csv&sheet=%E2%9A%A1%20AI_BOOTLOADER | Gunakan URL ini di Web AI (ChatGPT / Claude / Gemini) untuk membaca seluruh konteks secara instan tanpa login! |
+| 🔗 ENDPOINT ANTI-BLOKIR (PLAIN TEXT) | Raw Plain Text Mirror (Anti-Robots.txt): | https://gist.githubusercontent.com/jendeladunianet-coder/97424104c39b5193e0f800cdfcb6c5b5/raw/jd-ai-bootloader.txt | Mirror teks statis tanpa batasan robots.txt Google, 100% lolos scraping ChatGPT & Claude Web. |
+| Kategori_Blok | Parameter_Atau_Metrik | Nilai_Live_Formula | Keterangan_&_Aturan_AI |
+| BLOK A: PROTOKOL MULTI-AI | Identitas Bisnis & Workspace | JD Production (Studio Foto & Rental Alat Jambi - Padang) | Bisnis fotografi, self-photo studio, photobooth & sewa alat kamera/iPhone/laptop milik Owner Harun. |
+| BLOK A: PROTOKOL MULTI-AI | Peran Web AI (ChatGPT/Claude/Gemini) | Executive Advisor & Dispatcher Tugas Teknis | Anda bertindak sebagai penasihat eksekutif dan dispatcher strategi ke komputer lokal JD Production. |
+| BLOK A: PROTOKOL MULTI-AI | Aturan Mutlak AI (Zero Math Hallucination) | DILARANG MENGARANG ANGKA! Gunakan rumus live spreadsheet. | Semua metrik finansial, omset, spend, dan fee wajib berasal langsung dari tabel SSOT. |
+| BLOK A: PROTOKOL MULTI-AI | Format Kirim Tugas ke Komputer Lokal | [Task_ID | Tanggal | Kategori | Dari_Web_AI | Untuk_PC_Target | Untuk_AI_CLI | Prioritas | Target_File | Instruksi_Lengkap | ⏳ PENDING] | Sertakan 1 baris format ini di akhir respon Anda agar Owner tinggal copy-paste ke tab Global Task Queue! |
+| BLOK A: PROTOKOL MULTI-AI | Prinsip Eksekutif Owner (Non-Teknis) | AI Eksekutor Mandiri (Zero-DIY) & Opsi Jawaban 'Ya/Tidak' | Jangan menyuruh Owner koding. Beri rekomendasi keputusan bisnis biner yang padat. |
+| BLOK A: PROTOKOL MULTI-AI | Aturan Kanal Komunikasi Mutlak | 🚫 NO WHATSAPP OUTBOUND — WAJIB TELEGRAM ONLY | Semua notifikasi, laporan harian, dan draf pesan ke Owner wajib melalui Telegram Bot. |
+| BLOK A: PROTOKOL MULTI-AI | Aturan Mutlak Notifikasi (Telegram-Only) | DILARANG KIRIM WHATSAPP. Semua notifikasi dan draf wajib lewat Telegram. | Berlaku untuk semua AI dan semua NODE. Draf WA lama (top-up TikTok, win-back) jangan dikirim, kirim ke Telegram Owner untuk direview. |
+| BLOK A: PROTOKOL MULTI-AI | Aturan Penomoran Task | AI menulis Task_ID = TSK-NEW. Nomor asli diberikan otomatis oleh Global Task Queue. | Jangan menebak nomor TSK sendiri. |
+| BLOK B: SNAPSHOT KEUANGAN & PNL | Total Omset Kasir MTD (Oktober 2026) | Rp 8.985.000 | Total transaksi kasir terdaftar di tab KasirTransaksi Cloud SSOT bulan Oktober 2026. |
+| BLOK B: SNAPSHOT KEUANGAN & PNL | Kas Fisik Kasir (CASH) | Rp 3.860.000 | Penerimaan tunai kasir fisik studio (setoran laci sebelum beban ops drawer). |
+| BLOK B: SNAPSHOT KEUANGAN & PNL | Kas Digital (TRANSFER / QRIS DANA) | Rp 3.000.000 | Penerimaan non-tunai langsung masuk rekening bank / e-wallet DANA studio. |
+| BLOK B: SNAPSHOT KEUANGAN & PNL | Beban Operasional Laci (Drawer MTD) | Rp 2.564.000 | Total uang keluar drawer operasional harian (exclude prive & cicilan aset). |
+| BLOK B: SNAPSHOT KEUANGAN & PNL | Beban Tetap Bulanan (Fixed Overhead) | Rp 10.470.000 | Sewa Studio Jambi + Padang (@16jt/thn), Gaji 4 staf (@1.2jt), Listrik PLN & Internet Wi-Fi. |
+| BLOK B: SNAPSHOT KEUANGAN & PNL | Kewajiban Cicilan Bulanan | Rp 3.000.000 | Cicilan Bank BRI Rp 1.300.000 + ShopeePayLater Aset Rp 1.700.000 (s.d. September 2026). |
+| BLOK B: SNAPSHOT KEUANGAN & PNL | Sisa Plafon Belanja Modal (CAPEX) | Rp 300.000 | Plafon maksimal Rp 2.000.000/bulan dikurangi tagihan SPayLater Rp 1.700.000 (Sisa aman Rp 300rb). |
+| BLOK B: SNAPSHOT KEUANGAN & PNL | Estimasi Net Profit Operasional MTD | Rp 4.296.000 | Laba bersih operasional sebelum alokasi beban sewa gedung tahunan prorata. |
+| BLOK C: SNAPSHOT ADS ROAS & SALDO | Total Spend Iklan Aktif (Meta + TikTok) | Rp 476.291 | Spend kampanye aktif: Rental Laptop (Rp 162.843), Kamera Kalibrasi (Rp 203.567), TikTok (Rp 109.881). |
+| BLOK C: SNAPSHOT ADS ROAS & SALDO | Total Omset Atribusi Iklan | Rp 5.560.000 | Pendapatan riil dari booking pelanggan yang teratribusi langsung dari channel iklan. |
+| BLOK C: SNAPSHOT ADS ROAS & SALDO | Blended ROAS Aktif Keseluruhan | 11.67x | Sangat profitabel (di atas batas aman target ROAS bisnis ≥ 3.0x). |
+| BLOK C: SNAPSHOT ADS ROAS & SALDO | ROAS Meta Ads | 7.66x | Omset teratribusi Rp 2.800.000 dibagi Spend Meta Rp 366.410. |
+| BLOK C: SNAPSHOT ADS ROAS & SALDO | ROAS TikTok Ads | 25.12x | Omset teratribusi Rp 2.760.000 dibagi Spend TikTok Rp 109.881. |
+| BLOK C: SNAPSHOT ADS ROAS & SALDO | ROAS Google Search (Infocus & Laptop) | 141.27x | Traffic organik + Google Search bernilai tinggi dengan spend iklan sangat rendah. |
+| BLOK C: SNAPSHOT ADS ROAS & SALDO | Status Saldo TikTok Ads | Rp 0 (SALDO HABIS / PAUSED) | Iklan otomatis dipause sistem. Draf WA pengajuan top-up Rp 100.000 sudah disiapkan. |
+| BLOK C: SNAPSHOT ADS ROAS & SALDO | Status Saldo Google Ads | Rp 90.099 (AKTIF / PREPAID) | Saldo tersedia dari top-up DANA 9 Oktober 2026. |
+| BLOK C: SNAPSHOT ADS ROAS & SALDO | Status Akun Meta Ads | Pascabayar (Threshold / Limit Normal) | Pembayaran otomatis berbasis limit ambang batas tagihan kartu berjalan lancar. |
+| BLOK C: SNAPSHOT ADS ROAS & SALDO | Sisa Kuota Anggaran Iklan Bulanan | Rp 1.523.709 | Batas maksimal anggaran bulanan Rp 2.000.000 dikurangi spend aktif Rp 476.291. |
+| BLOK D: SNAPSHOT OPERASIONAL & CRM | Total Aset Rental Terlacak | 153 Unit | Kamera DSLR/Mirrorless, Lensa Optik, iPhone, Laptop, Proyektor, Lighting & Genset. |
+| BLOK D: SNAPSHOT OPERASIONAL & CRM | Unit Bintang (Star Assets) | iPhone XR Putih JD0035, Canon 1300D, Canon 1200D | Unit dengan occupancy rate > 80% dan perputaran booking tertinggi. |
+| BLOK D: SNAPSHOT OPERASIONAL & CRM | Unit Idle > 4 Hari (Alat Tidur) | 61 Unit (Potensi Omset Rp 3.060.000) | Laptop Fujitsu Touchscreen, Macbook Pro i5, Unit Projector Lumen Besar. |
+| BLOK D: SNAPSHOT OPERASIONAL & CRM | Rekomendasi Strategis Alat Tidur | ⚡ PUSH FLASH SALE & PAKET NOBAR / SKRIPSI | Gunakan cash flow alat tidur untuk cross-subsidy modal belanja Kamera & iPhone baru. |
+| BLOK D: SNAPSHOT OPERASIONAL & CRM | Total Kontak Pelanggan CRM Bersih | 679 Pelanggan | Database pelanggan terfilter tanpa nama internal staf studio. |
+| BLOK D: SNAPSHOT OPERASIONAL & CRM | Pelanggan Churn Risk (>60 Hari) | 72 Pelanggan | Draf WA win-back voucher promo 20% otomatis tersimpan di folder DRAF_OTOMATIS/. |
+| BLOK D: SNAPSHOT OPERASIONAL & CRM | Sisa Stok Kertas Cetak 4R Studio | 1.300 Lembar (🟢 STOK AMAN) | Terpakai 200 lembar dari kapasitas stok aman studio 1.500 lembar. |
+| BLOK D: SNAPSHOT OPERASIONAL & CRM | Auto-Fee Kru: Joko | Hak Rp 183.250 | Diambil Rp 375.000 | Sisa -Rp 191.750 | 23 transaksi kasir dilayani (Omset Rp 3.665.000) pada bulan Oktober 2026. |
+| BLOK D: SNAPSHOT OPERASIONAL & CRM | Auto-Fee Kru: Riko | Hak Rp 106.250 | Diambil Rp 445.000 | Sisa -Rp 338.750 | 19 transaksi kasir dilayani (Omset Rp 2.125.000) pada bulan Oktober 2026. |
+| BLOK D: SNAPSHOT OPERASIONAL & CRM | Auto-Fee Kru: Fajar | Hak Rp 159.750 | Diambil Rp 420.000 | Sisa -Rp 260.250 | 27 transaksi kasir dilayani (Omset Rp 3.195.000) pada bulan Oktober 2026. |
+| BLOK D: SNAPSHOT OPERASIONAL & CRM | Kebijakan Privasi Data Publik | 🛡️ SENSITIVE PRIVACY MASKED | Nomor HP pelanggan, nomor kartu, dan kunci API disembunyikan dari tab publik ini. |
+| BLOK E: STATUS NODE & TASK QUEUE | NODE-01 (PC-Utama-Jambi) | 🟢 ONLINE (Last HB: 46309.828599537) | Host Bot Server & Worker Utama aktif di Jambi (Windows 11). |
+| BLOK E: STATUS NODE & TASK QUEUE | NODE-02 (PC-Studio-Widebox) | 🟢 ONLINE (Tethering Studio Widebox) | Studio 1 Widebox Workstation untuk Camera Tethering & Thermal Printer. |
+| BLOK E: STATUS NODE & TASK QUEUE | NODE-03 (PC-Kasir) | 🟢 ONLINE (Frontdesk POS Terminal) | Frontdesk Kasir Terminal untuk POS Vercel & WhatsApp Extension Profile J1. |
+| BLOK E: STATUS NODE & TASK QUEUE | NODE-04 (Laptop-Padang) | 🟢 ONLINE (Remote Owner Terminal) | Remote Owner Terminal di Padang untuk Monitoring Eksekutif & Strategi Ads. |
+| BLOK E: STATUS NODE & TASK QUEUE | Task Bus Health Indicator | 🟢 Antrean Aktif (27 Tugas) | 🎉 27 Tugas Berhasil Diselesaikan | Status antrean global tugas lintas AI dan kesehatan sistem. |
+| BLOK E: STATUS NODE & TASK QUEUE | 5 Task Terakhir (Live) | TSK-024 | ASSET_CRM_MIRROR | ✅ DONE | Task terbaru yang sedang atau telah dieksekusi oleh sistem bus. |
+| BLOK F: DIREKTORI SISTEM & SOP | Kebijakan Rental B2B & Kasir | Wajib Lunas 100% di Awal. Sistem JD Production NO PIUTANG. | Semua rental dan sesi studio wajib lunas di depan sebelum alat/klien keluar. |
+| BLOK F: DIREKTORI SISTEM & SOP | Evaluasi Performa Iklan (Ads SOP) | Evaluasi setelah 48 jam. Pause materi iklan dengan CTR < 0.5%. | Plafon anggaran iklan maksimal Rp 2.000.000 / bulan. |
+| BLOK F: DIREKTORI SISTEM & SOP | Plafon Belanja Modal (CAPEX) | Maksimal Rp 3.000.000 / bulan. | Terpakai SPayLater Rp 1,7jt s.d. September 2026, sisa batas aman belanja Rp 300rb - Rp 1,3jt. |
+| BLOK F: DIREKTORI SISTEM & SOP | Strategi Cross-Subsidy Aset | Monetisasi alat idle (Infocus, Laptop, HT) untuk cetak modal beli Kamera & iPhone. | Kamera & iPhone rebutan stok terbatas, alat tidur wajib dipromosikan agresif. |
+| BLOK F: DIREKTORI SISTEM & SOP | Tautan SSOT: Ads ROAS Dashboard | 1WBBTp20yJytWArygRgb4Ng3X6JwxSWyJntp6oETJtuk | Kalkulator Scale-Up, Spend Log Meta/TikTok/Google, Analisa Mendalam. |
+| BLOK F: DIREKTORI SISTEM & SOP | Tautan SSOT: Master P&L Keuangan | 1Jyuaukgj6ZMVYrVD_cOoKB8yDwgyYEmxuaQI4GHHYto | Laporan laba rugi, mutasi kas bank, cash flow bulanan. |
+| BLOK F: DIREKTORI SISTEM & SOP | Tautan SSOT: Master Asset & CRM | 1aIzvOcfQmcloK8cI4o4Vn74uw8X0mMyJHlmUmaMHXNM | Mirror DB utilisasi rental, segmentasi RFM pelanggan & auto-fee kru. |
+| BLOK F: DIREKTORI SISTEM & SOP | Tautan SSOT: Folder Backup Cloud | https://drive.google.com/drive/folders/15FYTABawg0rRBRJP9UDQNRQmrBSzAhK_ | Folder Google Drive JD_Production_Backups (Akses Publik Reader). |
