@@ -1,9 +1,9 @@
 # ⚡ JD PRODUCTION — LIVE AI BOOTLOADER CONTEXT
 > SSOT: https://docs.google.com/spreadsheets/d/1rQktBd4Ro4Nl0XdOf4v63x58VLgOokrLixrtDHwa9So/edit
-> Plain-Text Anti-Robots.txt Mirror for ChatGPT Web, Claude Web, Gemini Web
+> Anti-Robots.txt & Anti-Firewall Mirror for ChatGPT Web, Claude Web, Gemini Web
 
 | 🔗 ENDPOINT SAKTI 1-LINK WEB AI | Direct CSV (Google GViz): | https://docs.google.com/spreadsheets/d/1rQktBd4Ro4Nl0XdOf4v63x58VLgOokrLixrtDHwa9So/gviz/tq?tqx=out:csv&sheet=%E2%9A%A1%20AI_BOOTLOADER | Gunakan URL ini di Web AI (ChatGPT / Claude / Gemini) untuk membaca seluruh konteks secara instan tanpa login! |
-| 🔗 ENDPOINT ANTI-BLOKIR (PLAIN TEXT) | Raw Plain Text Mirror (Anti-Robots.txt): | https://gist.githubusercontent.com/jendeladunianet-coder/97424104c39b5193e0f800cdfcb6c5b5/raw/jd-ai-bootloader.txt | Mirror teks statis tanpa batasan robots.txt Google, 100% lolos scraping ChatGPT & Claude Web. |
+| 🔗 ENDPOINT ANTI-BLOKIR (GITHUB PAGES) | Raw Plain Text Mirror (Anti-Firewall): | https://jendeladunianet-coder.github.io/jd-ai-bootloader.txt | Mirror GitHub Pages resmi anti-firewall Web AI (ChatGPT/Claude/Gemini), 100% lolos scraping. |
 | Kategori_Blok | Parameter_Atau_Metrik | Nilai_Live_Formula | Keterangan_&_Aturan_AI |
 | BLOK A: PROTOKOL MULTI-AI | Identitas Bisnis & Workspace | JD Production (Studio Foto & Rental Alat Jambi - Padang) | Bisnis fotografi, self-photo studio, photobooth & sewa alat kamera/iPhone/laptop milik Owner Harun. |
 | BLOK A: PROTOKOL MULTI-AI | Peran Web AI (ChatGPT/Claude/Gemini) | Executive Advisor & Dispatcher Tugas Teknis | Anda bertindak sebagai penasihat eksekutif dan dispatcher strategi ke komputer lokal JD Production. |
