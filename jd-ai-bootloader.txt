@@ -56,3 +56,6 @@
 | BLOK F: DIREKTORI SISTEM & SOP | Tautan SSOT: Master P&L Keuangan | 1Jyuaukgj6ZMVYrVD_cOoKB8yDwgyYEmxuaQI4GHHYto | Laporan laba rugi, mutasi kas bank, cash flow bulanan. |
 | BLOK F: DIREKTORI SISTEM & SOP | Tautan SSOT: Master Asset & CRM | 1aIzvOcfQmcloK8cI4o4Vn74uw8X0mMyJHlmUmaMHXNM | Mirror DB utilisasi rental, segmentasi RFM pelanggan & auto-fee kru. |
 | BLOK F: DIREKTORI SISTEM & SOP | Tautan SSOT: Folder Backup Cloud | https://drive.google.com/drive/folders/15FYTABawg0rRBRJP9UDQNRQmrBSzAhK_ | Folder Google Drive JD_Production_Backups (Akses Publik Reader). |
+| Total Skill Aktif Workspace | 198 | Total CLI & Script Runners | 16 |
+| Runner Inti Tersedia | task.py, erp.py, wa.py, ads.py, finance.py, gemini_argon_bridge.py, tele_notify.py | Resource Lock Kritis | CDP Port 9222 (Argon) & Chrome Profile J1 (WhatsApp/Shopee) |
+| Pencegahan Bentrok Jadwal | ⚠️ POTENSI BENTROK (2 Task di Jam 21:00) | Kesehatan Scheduler | 20 / 20 Job Sehat (Exit 0) |
